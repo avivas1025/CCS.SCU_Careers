@@ -14,7 +14,8 @@
 ## 2. 学院近三年就业数据
 
 ### 2.1 2024年
-
+(1) [2024年本学院入职重点单位情况
+![2024年本学院入职重点单位情况](1.png)
 
 
 ### 2.2 2023年
@@ -96,13 +97,13 @@ Stack Overflow、GitHub、知乎、V2EX等。
 案例分析：分析成功求职者的简历、项目经验和面试准备。
 
 ## 11. 就业帮扶政策
-1. [应届毕业生一次性求职补贴]
+(1). [应届毕业生一次性求职补贴]
 
    申请时间：进入毕业年级的10月左右
    
     https://jy.scu.edu.cn/index/index/newsdetail.html?data=MDAwMDAwMDAwMJG6n3_Ed6imi4qQtMeen5qKuLbSyGHRp7ugzc-GnZ2skMx9ZMN4gtKLipCwxKF0lZC5sq-0gqJv
    
-3. [基层就业学费补偿和国家助学贷款代偿]
+(2). [基层就业学费补偿和国家助学贷款代偿]
 
    申请时间：毕业后——入职的10月前
 
