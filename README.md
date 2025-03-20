@@ -3,7 +3,7 @@
 
 ## 1. 实习与全职工作申请信息-2025春
 ### 1.1 网安相关单位【宣讲会信息】汇总-2025春
-[查看每周宣讲会信息]https://docs.qq.com/sheet/DSmpVa0poZURRbXlz?tab=BB08J2
+[查看每周宣讲会信息](https://docs.qq.com/sheet/DSmpVa0poZURRbXlz?tab=BB08J2)
 
 备注：宣讲会信息在秋招9-11月，春招3-4月，每周更新。
 
@@ -19,6 +19,8 @@
 <img src="1.png" alt="2024年本学院入职重点单位情况" width="500" />
 
 （2）入职单位云图
+
+<img src="2024.png" alt="2024入职单位" width="500" />
 
 
 
@@ -92,8 +94,6 @@ Stack Overflow、GitHub、知乎、V2EX等。
 
 ### 9.2 学习资源推荐
 如Coursera、edX、LeetCode、牛客网等
-
-### 9.3 学习资源推荐
 博客与播客：推荐的技术博客和播客，了解行业动态和技术前沿。
 
 ## 10. 案例分析
@@ -101,17 +101,17 @@ Stack Overflow、GitHub、知乎、V2EX等。
 案例分析：分析成功求职者的简历、项目经验和面试准备。
 
 ## 11. 就业帮扶政策
-(1). [应届毕业生一次性求职补贴]
+(1). 应届毕业生一次性求职补贴
 
    申请时间：进入毕业年级的10月左右
    
-    https://jy.scu.edu.cn/index/index/newsdetail.html?data=MDAwMDAwMDAwMJG6n3_Ed6imi4qQtMeen5qKuLbSyGHRp7ugzc-GnZ2skMx9ZMN4gtKLipCwxKF0lZC5sq-0gqJv
+[查看往年申请通知](https://jy.scu.edu.cn/index/index/newsdetail.html?data=MDAwMDAwMDAwMJG6n3_Ed6imi4qQtMeen5qKuLbSyGHRp7ugzc-GnZ2skMx9ZMN4gtKLipCwxKF0lZC5sq-0gqJv)
    
-(2). [基层就业学费补偿和国家助学贷款代偿]
+(2). 基层就业学费补偿和国家助学贷款代偿
 
    申请时间：毕业后——入职的10月前
-
-   https://xgb.scu.edu.cn/info/1003/4158.htm
+   
+ [查看往年申请通知](https://xgb.scu.edu.cn/info/1003/4158.htm)
 
 
 ## 11. 常见问题解答（FAQ）
