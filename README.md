@@ -15,6 +15,8 @@
 
 ### 2.1 2024年
 
+
+
 ### 2.2 2023年
 
 ### 2.3 2022年
@@ -92,6 +94,20 @@ Stack Overflow、GitHub、知乎、V2EX等。
 ## 10. 案例分析
 学长学姐的经验分享：邀请已经找到工作的学长学姐分享他们的求职经验。
 案例分析：分析成功求职者的简历、项目经验和面试准备。
+
+## 11. 就业帮扶政策
+1. [应届毕业生一次性求职补贴]
+
+   申请时间：进入毕业年级的10月左右
+   
+    https://jy.scu.edu.cn/index/index/newsdetail.html?data=MDAwMDAwMDAwMJG6n3_Ed6imi4qQtMeen5qKuLbSyGHRp7ugzc-GnZ2skMx9ZMN4gtKLipCwxKF0lZC5sq-0gqJv
+   
+3. [基层就业学费补偿和国家助学贷款代偿]
+
+   申请时间：毕业后——入职的10月前
+
+   https://xgb.scu.edu.cn/info/1003/4158.htm
+
 
 ## 11. 常见问题解答（FAQ）
 求职常见问题：如如何准备笔试、面试中如何表现、如何处理Offer等。
