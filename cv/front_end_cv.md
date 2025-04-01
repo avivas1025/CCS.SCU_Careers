@@ -1,7 +1,8 @@
 ### 前端简历参考
-
--前端简历模版
-<img src="./cv/Front-end_cv.png" alt="Logo" width="60" height="40">
-
--简历注意事项
+- 简历Tips
 简历简洁清楚即可，[教育经历]放在开头，[实习经历]或者[项目经历]占页面大部分。
+
+- 前端简历模版
+
+<img src="../cv/Front-end_cv.png" alt="Logo" width="600">
+
