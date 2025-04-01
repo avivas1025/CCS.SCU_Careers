@@ -1,4 +1,4 @@
-# <img src="title.png" alt="Logo" width="60" height="40"> CCS.SCU_Careers
+# <img src="./data_history/title.png" alt="Logo" width="60" height="40"> CCS.SCU_Careers
 川大网安人的就业指南
 
 ## 🚀 1. 实习与全职工作申请信息-2025春
@@ -32,6 +32,7 @@
 
 ## 🐻4. 简历模板
 - 不同岗位简历模版
+  - [前端开发简历参考](./cv/Front-end_cv.png)
 
 - 简历撰常见问题
   - 大学期间没有参加过行业级的项目，我该怎么写项目经历？
