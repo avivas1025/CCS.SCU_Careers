@@ -52,7 +52,7 @@
 
 - 后端开发岗
 
-- [前端开发岗](./5prepare/Front-end_pre.md)
+- [前端开发岗](./5prepare/front_end_pre.md)
 
 - 算法岗
 
