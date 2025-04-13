@@ -11,7 +11,7 @@
 
     **PS：**实习经历、项目经历、竞赛经历能表现自己能力的地方，一定要注意详略得当和排版安排。突出能力重点，吸引面试官去提问你更了解的领域。
 
-- 前端简历模版
+- 测开简历模版
 
-    <img src="D:\github\CCS.SCU_Careers\4cv\Test_cv.png" style="zoom: 67%;" />
+    <img src="./4cv/Test_cv.png" style="zoom: 67%;" />
 
