@@ -1,4 +1,4 @@
-# <img src="./data_history/title.png" alt="Logo" width="60" height="40"> CCS.SCU_Careers
+# <img src="./2data_history/title.png" alt="Logo" width="60" height="40"> CCS.SCU_Careers
 川大网安人的就业指南
 
 ## 🚀 1. 实习与全职工作申请信息-2025春
@@ -52,7 +52,7 @@
 
 - 后端开发岗
 
-- [前端开发岗](./5prepare/Front-end_pre.md)
+- [前端开发岗](./5prepare/front_end_pre.md)
 
 - 算法岗
 
