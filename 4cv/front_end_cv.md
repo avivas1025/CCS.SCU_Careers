@@ -5,5 +5,5 @@
 
 - 前端简历模版
 
-    ![](D:\github\CCS.SCU_Careers\4cv\Front-end_cv.png)
+    ![](/4cv/Back-end_cv.png)
 
