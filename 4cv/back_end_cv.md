@@ -5,6 +5,6 @@
 
     自己的博客、github、编程相关的获奖经历一定是加分项。通过这些链接，招聘人员可以迅速了解你。
 
-- 前端简历模版
+- 后端简历模版
 
-    ![](D:\github\CCS.SCU_Careers\4cv\Back-end_cv.png)
+    <img src="/4cv/Back-end_cv.png"  width = 60%>
