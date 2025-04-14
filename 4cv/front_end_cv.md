@@ -5,5 +5,5 @@
 
 - 前端简历模版
 
-    ![](/4cv/Front-end_cv.png width = “60%”)
+    <img src="/4cv/Front-end_cv.png"  width = “60%”>
 
