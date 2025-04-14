@@ -32,8 +32,8 @@
 ## ✏️笔试面试如何准备
 
 - 算法：
-  - 优先做《力扣hot100》，着重理解。（https://leetcode.cn/problem-list/2cktkvj/）
-  - 其次可以根据《代码随想录》教程系统学习 。（https://www.programmercarl.com/）
+  - 优先做《力扣hot100》，着重理解。（https://leetcode.cn/problem-list/2cktkvj/ ）
+  - 其次可以根据《代码随想录》教程系统学习 。（https://www.programmercarl.com/ ）
 
 - 八股文：力扣leetbook中的『七天八股速记』、『前端面试攻略』。
 
