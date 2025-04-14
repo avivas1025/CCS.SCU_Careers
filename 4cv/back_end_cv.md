@@ -7,4 +7,4 @@
 
 - 后端简历模版
 
-    <img src="/4cv/Back-end_cv.png"  width = “40%”>
+    <img src="/4cv/Back-end_cv.png"  width = 60%>
