@@ -8,6 +8,7 @@ $\downarrow$
 $\downarrow$
 
 <font color=blue>技术面：</font>2~N次不等，通常2或3次，但也有同学字节跳动技术面经历了接近20次。
+
 $\downarrow$
 
 <font color=blue>HR面：</font>通常只有一次；部分公司在这基础上会添加部门交叉面试。到了HR一般来说就接近offer了。
