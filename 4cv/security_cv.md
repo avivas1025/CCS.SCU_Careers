@@ -1,9 +1,9 @@
 ### 后端简历参考
 - 算法岗简历模版
 1. 简历参考
- <img src="Algorithm_cv.png">
+ <img src="Security_cv.png">
 
 2. 可用模版 
 (https://www.overleaf.com/latex/templates/bill-ryans-elegant-latex-resume/xcqmhktmzmsw)
 
- <img src="Algorithm-template.png">
+ <img src="Security-template.png">
