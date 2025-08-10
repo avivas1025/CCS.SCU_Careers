@@ -42,6 +42,7 @@
   - [后端开发岗简历参考](./4cv/back_end_cv.md)
   - [前端开发岗简历参考](./4cv/front_end_cv.md)
   - [测试开发岗简历参考](./4cv/test_cv.md)
+  - [安全岗简历参考](./4cv/security_cv.md)
 
 
 
