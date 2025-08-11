@@ -20,21 +20,21 @@
 时间充裕的情况下，渴望从事安全领域建议从CTF起手。时间不充裕不建议走安全方向。🤓
 
 - 实战方向
-   - 线上实践 ：在*CTFSHOW*(https://ctf.show/ )平台，可以根据方向去做Web安全、逆向工程、二进制漏洞利用（PWN）、密码学、取证分析等方向的题目，这样基本掌握了常见漏洞。
+   - 线上实践 ：在[*CTFSHOW*](https://ctf.show/)平台（专注于 CTF竞赛的在线平台），可以根据方向去做Web安全、逆向工程、二进制漏洞利用（PWN）、密码学、取证分析等方向的题目，这样基本掌握了常见漏洞。
   
    - 护网行动：多找机会参加hw行动，教育hw也可以。
   
-   - 认证证书：如果资金充裕，可以选择看一下*Offsec*（https://www.offsec.com/courses/ ）的*OSCP*和*OSEP*两个认证证书；如果资金不充裕，可以网上购买这两个的教材跟着学，但没有Lab和考试。
+   - 认证证书：如果资金充裕，可以选择看一下[*Offsec*](https://www.offsec.com/courses/)的*OSCP*和*OSEP*两个认证证书；如果资金不充裕，可以网上购买这两个的教材跟着学，但没有Lab和考试。
     
      ps： 关于*Offsec*证书认证（*OSCP*、*OSEP*、*OSWE*、*OSED*四大认证对比，看这一篇就够了！https://blog.csdn.net/weixin_43766412/article/details/127610686 ）。
   
-   - 网络靶场：可以选择*Hack The Box*（https://www.hackthebox.com/ ）靶场进行打靶学习；*TryHackMe*（https://tryhackme.com/ ）有非常完善的教学，跟学基本够用。*SRC*漏洞挖掘，可以从教育*SRC*开始，之后再到专属*SRC*，可以从*HackerOne*的公开报告中学习。
+   - 网络靶场：可以选择[*Hack The Box*](https://www.hackthebox.com/)靶场进行打靶学习；[*TryHackMe*](https://tryhackme.com/)有非常完善的教学，跟学基本够用。*SRC*漏洞挖掘，可以从教育*SRC*开始，之后再到专属*SRC*，可以从*HackerOne*的公开报告中学习。
   
     
 - 研究方向：例如：*Java*安全研究；安全产品：*Webshell*、*WAF*之类的检测；云安全：*K8S*、*AWS*等等。
 
 
-#### 3. 以二进制安全为例，<font color=orange>入门学习路线</font>
+#### 3. 以二进制安全为例，<font color=orange>**入门学习路线**</font>
 | 主题        | 详细描述 |
 | :---------- | :------- |
 |汇编语言	| - 学习amd32，amd64汇编语言，能够做到识别基础汇编指令，理解汇编语言的运行逻辑；<br>- 若有能力可以进一步了解arm，mips等架构的汇编语言。|
