@@ -77,7 +77,7 @@
 - [后端开发岗]
 - [前端开发岗](./7project/front_end_project.md)
 - [测试开发岗]
-- [安全岗]((./7project/security_project.md))
+- [安全岗](./7project/security_project.md)
 - 不想做纯开发（运维&&解决方案&产品经理&人力资源）
 
 ## 🐝8. 技术社区与学习资源
@@ -89,7 +89,7 @@
 
 
 - 技术社区推荐
-  - Stack Overflow、GitHub、知乎、V2EX等。
+  - Stack Overflow、V2EX等。
 
 - 学习资源推荐
   如Coursera、edX、LeetCode、牛客网等

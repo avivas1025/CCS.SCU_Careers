@@ -11,5 +11,5 @@
 - 课程推荐[*TryHackMe*](https://tryhackme.com/)的红队之路，[*Offsec*](https://www.offsec.com/courses/)的OSCP、OSEP的两个证书
 - SRC：[Hackerone](https://www.hackerone.com/)，[乌云镜像站](https://wy.zone.ci/)；
 - 靶场：[*Hack The Box*](https://www.hackthebox.com/)；
-- 题库：[BUUCTF](https://buuoj.cn/),[CTFSShow](https://ctf.show/)，[CTFtime](https://ctftime.org/)，[NSSCTF](https://www.nssctf.cn/user/login?redirect=/user/range/api)等。
+- 题库：[BUUCTF](https://buuoj.cn/)，[CTFSShow](https://ctf.show/)，[CTFtime](https://ctftime.org/)，[NSSCTF](https://www.nssctf.cn/user/login?redirect=/user/range/api)等。
 
