@@ -85,7 +85,7 @@
 - [后端开发岗]
 - [前端开发岗](./8Resources/front_end_resources.md)
 - [测试开发岗]
-- [安全岗]((./8Resources/security_resources.md))
+- [安全岗](./8Resources/security_resources.md)
 
 
 - 技术社区推荐
