@@ -4,6 +4,7 @@
  - Sosotest https://github.com/LianjiaTech/sosotest ：接口自动化测试平台
  - ATX-Test https://github.com/pengchenglin/ATX-Test ：UI自动化测试框架
  - testFX https://github.com/microsoft/testfx ：AI应用到测试中
+ - SoloPi https://github.com/alipay/SoloPi ：Android自动化测试工具
   
   
 

@@ -76,7 +76,7 @@
 **（参与开源项目 or 从零开始构建一个完整的项目）**
 - [后端开发岗]
 - [前端开发岗](./7project/front_end_project.md)
-- [测试开发岗]
+- [测试开发岗](./7project/test_project.md)
 - [安全岗](./7project/security_project.md)
 - 不想做纯开发（运维&&解决方案&产品经理&人力资源）
 
@@ -84,7 +84,7 @@
 
 - [后端开发岗]
 - [前端开发岗](./8Resources/front_end_resources.md)
-- [测试开发岗]
+- [测试开发岗](./8Resources/test_resources.md)
 - [安全岗](./8Resources/security_resources.md)
 
 
