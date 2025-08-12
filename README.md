@@ -20,13 +20,9 @@
 🔗 协作方式：Issues提建议 | Pull Request提交内容 | 微信社群交流
 
 ---
-
-<<<<<<< HEAD
 欢迎Watch、Star、Fork 三连。祝各位都能找到适合的工作。🤩
 
-=======
-欢迎Watch、Star、Fork 三连。🤩
->>>>>>> fe355ee7f7e03c8e5232de3951b52e459d87d0c0
+
 
 
 ## 🚀 1. 实习与全职工作申请信息-2025春
