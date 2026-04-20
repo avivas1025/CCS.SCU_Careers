@@ -67,6 +67,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
   - [前端开发岗简历参考](./4cv/front_end_cv.md)
   - [测试开发岗简历参考](./4cv/test_cv.md)
   - [安全岗简历参考](./4cv/security_cv.md)
+  - [算法岗简历参考](./4cv/algo.md)
 
 
 
@@ -83,7 +84,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
   - [前端开发岗](./5prepare/front_end_pre.md)
   - [测试开发岗](./5prepare/test_pre.md)
   - [安全岗](./5prepare/security_pre.md)
-  - 算法岗
+  - [算法岗](./5prepare/algo.md)
   - 不想做纯开发（运维&&解决方案&产品经理&人力资源）
 
 
@@ -92,7 +93,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 - [前端开发岗](./6roadmap/front_end_roadmap.md)
 - [测试开发岗](./6roadmap/test_roadmap.md)
 - [安全岗](./6roadmap/security_roadmap.md)
-- 算法岗
+- [算法岗](./6roadmap/algo.md)
 - 不想做纯开发（运维&&解决方案&产品经理&人力资源）
 
 
@@ -102,7 +103,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 - [前端开发岗](./7project/front_end_project.md)
 - [测试开发岗](./7project/test_project.md)
 - [安全岗](./7project/security_project.md)
-- 不想做纯开发（运维&&解决方案&产品经理&人力资源）
+- [算法岗](./7project/algo.md)
 
 ## 🐝8. 技术社区与学习资源
 
@@ -110,6 +111,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 - [前端开发岗](./8Resources/front_end_resources.md)
 - [测试开发岗](./8Resources/test_resources.md)
 - [安全岗](./8Resources/security_resources.md)
+- [算法岗](./8Resources/algo.md)
 
 
 - 技术社区推荐
