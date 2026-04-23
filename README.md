@@ -38,24 +38,22 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 ## 🐅2. 学院近三年就业数据
 
 - 2024年
-   - [2024年学院入职重点单位情况](./2data_history/2024employment_dis.png)
+   - [入职单位分类占比](./2data_history/2024employment_dis.png)
 
-   - [学院主要入职单位](./2data_history/2024employer.png)
+   - [学院主要入职单位及就业地点分布](./2data_history/2024employer.png)
  
-   - [学院就业地点分布]
-
 
 
 - 2.2 2023年
-   - [2023年学院入职重点单位情况](./2data_history/2023distribution.md)
+   - [学院入职单位分类占比](./2data_history/2023distribution.md)
 
   - [学院主要入职单位及就业地点分布](./2data_history/2023company.md)
  
 
 - 2.3 2022年
-   - [2022年学院入职重点单位情况]()
+   - [学院入职单位分类占比]()
 
-   - [学院主要入职单位]()
+   - [学院主要入职单位及就业地点分布]()
  
 
 ## 🐱3. 就业准备时间线
