@@ -47,9 +47,9 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 
 
 - 2.2 2023年
-   - [2023年学院入职重点单位情况](D:\github\CCS.SCU_Careers\2data_history\2023distribution.md)
+   - [2023年学院入职重点单位情况](./2data_history/2023distribution.md)
 
-  - [学院主要入职单位及就业地点分布](D:\github\CCS.SCU_Careers\2data_history\2023company.md)
+  - [学院主要入职单位及就业地点分布](./2data_history/2023company.md)
  
 
 - 2.3 2022年
