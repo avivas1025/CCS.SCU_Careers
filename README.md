@@ -74,7 +74,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 - 简历撰常见问题
   - [大学期间没有参加过行业级的项目，我该怎么写项目经历？](./4cv/question1.md)
   - [如何突出项目经验、核心技能和成果？](./4cv/question2.md)
-  - [英语成绩、专业课程是否要写？]
+
 
 ## 🐇5. 笔试面试准备
 
@@ -89,7 +89,7 @@ PS: 秋招9-11月，春招3-4月期间，学校宣讲会信息每周更新。
 
 
 ## 🐳6. 技术学习路线
-- [后端开发岗]
+- [后端开发岗](./6roadmap/back_end_roadmap.md)
 - [前端开发岗](./6roadmap/front_end_roadmap.md)
 - [测试开发岗](./6roadmap/test_roadmap.md)
 - [安全岗](./6roadmap/security_roadmap.md)

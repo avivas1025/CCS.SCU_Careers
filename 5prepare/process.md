@@ -11,6 +11,10 @@ $\downarrow$
 
 $\downarrow$
 
+<font color=blue>AI面：</font>：一次。AI相关专业能力（如，机器学习基础、深度学习基础、大模型等）+开发基础（编程语言、计算机基础、数据结构与算法）+项目实践（如，项目经历、框架使用等），不同公司侧重点会略有差异。
+
+$\downarrow$
+
 <font color=blue>技术面：</font>2~N次不等，通常2或3次，但也有同学字节跳动技术面经历了接近20次。
 
 $\downarrow$

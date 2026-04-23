@@ -1,0 +1,78 @@
+## 📌技术学习路线-后端开发岗
+学习后端的关键在于\<font color=red>\*\*理解业务逻辑，多做项目实战\*\*\</font>，以工程化思维解决问题，兼顾性能、安全与可维护性。
+
+可以采取如下\<font color=red>\*\*从0到1\*\*\</font>的学习路线，适配入门到面试的全阶段需求：
+
+#### 1. 后端认知与全栈关联
+
+\- 概述：入门后端前，先建立全局认知，了解后端的核心职责（数据如何处理、接口的提供、业务逻辑实现等），以及与前端的协同关系（前后端分离模式）。可结合前端学习中接触的Node后端，初步感知后端开发流程，为后续学习建立基础。
+
+\- 推荐参考：阮一峰JavaScript全栈教程中Node相关章节（https://www.ruanyifeng.com/blog/2016/11/javascript.html），重点阅读Node基本用法、Restful API、Express框架部分，无需深入Demo，1-2小时理解核心逻辑即可。
+
+#### 2. 后端开发入门（核心基础）
+
+\- 概述：后端入门的核心是「编程语言+数据库+基础工具」，选择一门主流语言深耕，搭配基础数据库，掌握后端开发的基本操作，难度从基础到入门逐步提升。
+
+\- 主要内容：
+
+* 编程语言（二选一，优先推荐）：
+  - Node.js：衔接前端知识，学习成本低，适合前端转后端或全栈方向，重点掌握Express/Koa框架、异步编程（Promise、async/await）；
+  - Java：企业级开发主流，生态完善，适合长期深耕后端，重点掌握基础语法、面向对象（OOP）、集合框架；
+* 数据库（必学）：MySQL（关系型数据库入门首选），掌握SQL语句、索引、事务、表设计基础；
+* 基础工具：Git（代码管理，与前端通用）、Linux（后端部署必备，掌握基本命令）。
+
+\- 推荐教程： 
+- Node.js：https://zh.javascript.info/js（配合JavaScript进阶内容，重点学习异步、模块相关章节）；
+- Java：[Oracle官方Java入门教程](https://www.oracle.com/technetwork/cn/java/newtojava-100451-zhs.html)、[尚硅谷Java基础教程](https://www.atguigu.com/video/1/)；
+- MySQL：[W3School MySQL教程](https://www.w3schools.com/MySQL/default.asp)、[菜鸟教程MySQL板块](https://www.runoob.com/mysql/mysql-tutorial.html)。
+
+#### 3. 后端工程化（必备能力）
+
+\- 概述：后端工程化是提升开发效率、保证项目质量的关键，过度深入底层原理需要花费大量时间，重点可以放在掌握常用工具和规范，贴合企业实际开发场景。
+
+\- 主要内容： 
+- 项目构建工具：Node.js（npm/yarn）、Java（Maven/Gradle）；
+- 接口规范：Restful API（与前端协同核心，重点掌握请求方法、状态码、参数设计）；
+- 测试：单元测试（Node.js用Mocha/Jest，Java用JUnit）、接口测试（Postman）；
+- 自动化部署：参考前端工程化相关工具（Jenkins、Github Actions），实现后端项目自动打包、部署。
+
+\- 推荐教程：https://woai3c.github.io/introduction-to-front-end-engineering/（重点学习测试、自动化部署章节，后端工程化与前端逻辑相通，可复用部分实践方法）。
+
+####  4. 项目实战（巩固提升）
+
+\- 概述：学完入门基础和工程化知识后，通过实战项目将理论落地，重点锻炼业务逻辑梳理、接口开发、数据库设计能力，推荐从简单项目入手，逐步提升复杂度。
+
+\- 推荐练手项目（适配入门）： 
+- 基于Node.js+Express+MySQL：开发个人博客后端（提供文章增删改查、用户登录接口，与前端博客页面对接）；
+- 基于Java+SpringBoot+MySQL：开发简易图书管理系统（实现图书、用户、借阅记录的CRUD接口）；
+
+\- 核心要求：独立完成数据库设计、接口开发、测试与简单部署，遇到问题（如接口报错、数据库连接异常）主动排查解决，积累实战经验。
+
+#### 5. 后端进阶（面试加分项）
+
+\- 概述：进阶内容是区分基础后端与合格后端的关键，重点掌握框架原理、性能优化、安全防护，贴合企业面试高频考点，强化核心能力。
+
+\- 主要内容： 
+- 框架进阶：Node.js（Koa框架原理、中间件机制）、Java（SpringBoot核心原理、Spring MVC）；
+- 数据库进阶：MySQL索引优化、事务隔离级别、分库分表基础；
+- 安全防护：接口鉴权（JWT、Token）、XSS/CSRF攻击防范、数据加密；
+- 性能优化：接口响应速度优化、数据库查询优化、缓存基础（[Redis入门]）（https://www.runoob.com/redis/redis-intro.html）。
+
+\- 推荐教程： 
+- Node.js进阶：《Node.js设计模式》（网上有翻译版本）、掘金Node.js进阶专栏；
+- Java进阶：《SpringBoot实战》、尚硅谷SpringBoot进阶教程；
+- Redis：Redis官方文档（入门版）、菜鸟教程Redis板块。
+
+#### 6. 框架深耕（方向定位）
+
+\- 概述：根据自身发展方向，深耕一门主流后端框架，形成个人技术优势，适配不同企业的技术栈需求。
+
+\- 主要方向（二选一或深耕其一）： - 全栈方向：深耕Node.js，掌握Nest.js框架（企业级Node后端框架），衔接前端技术，实现全栈开发； - 传统后端方向：深耕Java，掌握Spring Cloud（微服务框架）、MyBatis（持久层框架），适配企业级大型项目；
+
+\- 推荐教程： - Nest.js：Nest.js官方文档（中文）； - Spring Cloud：尚硅谷Spring Cloud教程、《Spring Cloud微服务实战》。
+
+#### 7. 拓展学习（学有余力）
+
+\- 概述：针对学有余力的同学，可根据兴趣和职业规划，拓展后端相关延伸技术，提升竞争力，适配更广泛的岗位需求。
+
+\- 推荐内容： - 微服务与Serverless：参考前端工程化中相关章节，了解微服务拆分、Serverless部署（降低服务器管理成本）； - 消息队列：RabbitMQ、Kafka入门（企业级项目常用，解决高并发场景下的消息处理问题）； - 后端监控：Sentry（与前端监控通用）、Prometheus（系统性能监控）。
